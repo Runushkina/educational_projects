@@ -7,5 +7,5 @@ Below is a table describing each subjects and the stack of technologies that wer
 | Project | Brief description of the project | Technology stack |
 | ----------- | ----------- | ----------- |
 | [Analysis and Development Algorithms](https://github.com/Runushkina/educational_projects/tree/main/Analysis%20and%20Development%20of%20Algorithms)    | This subject is related to basic machine learning algorithms and artificial intelligence   | `pandas`, `plotly`, `requests`, `bs4`, `statsmodels`   |
-| [Прогнозирование оттока и кластеризация клиентов спортзала](https://github.com/Runushkina/analytics_projects/tree/main/Прогнозирование%20оттока%20и%20кластеризация%20клиентов%20сети%20фитнес-центров)    |    | `pandas`, `plotly`, `seaborn`, `scipy`, `sklearn`  |
-| [Исследование причин убытков приложения](https://github.com/Runushkina/analytics_projects/tree/main/Исследование%20причин%20убыточности%20компании)    |    | `pandas`, `seaborn`, `matplotlib`  |
+| [Machine Learning Technologies](https://github.com/Runushkina/educational_projects/tree/main/Machine%20Learning%20Technologies)    |    | `pandas`, `plotly`, `seaborn`, `scipy`, `sklearn`  |
+|   |    |  |
