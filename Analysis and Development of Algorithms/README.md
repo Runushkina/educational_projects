@@ -1,5 +1,4 @@
 # Analysis and Development of Algorithms
-
 ## Description of projects 
 Below is a table describing each projects and the stack of technologies that were used
 
