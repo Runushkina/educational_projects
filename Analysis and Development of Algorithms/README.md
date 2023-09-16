@@ -4,7 +4,7 @@ Below is a table describing each projects and the stack of technologies that wer
 
 | Project | Brief description of the project | Technology stack |
 | ----------- | ----------- | ----------- |
-| [Experimental time complexity analysis](https://github.com/Runushkina/educational_projects/blob/main/Analysis%20and%20Development%20of%20Algorithms/Task%201.%20Experimental%20time%20complexity%20analysis.ipynb)    | Experimental study of the time complexity of different algorithms   | `pandas`, `matplotlib` |
-|  |    | `pandas`, `plotly`, `seaborn`, `scipy`, `sklearn`  |
+| [Experimental time complexity analysis](https://github.com/Runushkina/educational_projects/blob/main/Analysis%20and%20Development%20of%20Algorithms/Task%201.%20Experimental%20time%20complexity%20analysis.ipynb)    | Experimental study of the time complexity of different algorithms   | `numpy`, `matplotlib` |
+| [Algorithms for unconstrained nonlinear optimization. Direct methods](https://github.com/Runushkina/educational_projects/blob/main/Analysis%20and%20Development%20of%20Algorithms/Task%201.%20Experimental%20time%20complexity%20analysis.ipynb) | The use of direct methods (one-dimensional methods of exhaustive search, dichotomy, golden section search; multidimensional methods of exhaustive search, Gauss (coordinate descent), Nelder-Mead) in the tasks of unconstrained nonlinear optimization | `pandas`, `plotly`, `numpy`, `matplotlib` |
 |  |    | `pandas`, `seaborn`, `matplotlib`  |
 
